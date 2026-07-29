@@ -1,0 +1,113 @@
+{
+  "title": "Katalog Pelabuhan Sulawesi Selatan",
+  "description": "Titik referensi pelabuhan Sulawesi Selatan yang ditampilkan pada Portal Pelayaran & Cuaca Maritim Sulsel.",
+  "source": "Rujukan data kepelabuhanan Kemenhub / MaritimHUB / HUBNET",
+  "updatedAt": "2026-07-23",
+  "ports": [
+    {
+      "name": "Pelabuhan Soekarno-Hatta",
+      "city": "Makassar",
+      "latitude": -5.129,
+      "longitude": 119.405
+    },
+    {
+      "name": "Pelabuhan Paotere",
+      "city": "Makassar",
+      "latitude": -5.112,
+      "longitude": 119.422
+    },
+    {
+      "name": "Pelabuhan Garongkong",
+      "city": "Barru",
+      "latitude": -4.418,
+      "longitude": 119.616
+    },
+    {
+      "name": "Pelabuhan Nusantara Parepare",
+      "city": "Parepare",
+      "latitude": -4.013,
+      "longitude": 119.623
+    },
+    {
+      "name": "Pelabuhan Bajoe",
+      "city": "Bone",
+      "latitude": -4.533,
+      "longitude": 120.363
+    },
+    {
+      "name": "Pelabuhan Bira",
+      "city": "Bulukumba",
+      "latitude": -5.605,
+      "longitude": 120.456
+    },
+    {
+      "name": "Pelabuhan Pamatata",
+      "city": "Selayar",
+      "latitude": -6.122,
+      "longitude": 120.463
+    },
+    {
+      "name": "Pelabuhan Siwa",
+      "city": "Wajo",
+      "latitude": -3.692,
+      "longitude": 120.405,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Malili",
+      "city": "Luwu Timur",
+      "latitude": -2.6333,
+      "longitude": 121.1,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Bantaeng",
+      "city": "Bantaeng",
+      "latitude": -5.53187,
+      "longitude": 120.02983,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Awerange",
+      "city": "Barru",
+      "latitude": -4.453,
+      "longitude": 119.605,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Pattiro Bajo",
+      "city": "Bone",
+      "latitude": -4.6607806,
+      "longitude": 120.3734306,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Boddia (Galesong)",
+      "city": "Takalar",
+      "latitude": -5.3278557,
+      "longitude": 119.3627814,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Maccini Baji",
+      "city": "Pangkep",
+      "latitude": -4.7747778,
+      "longitude": 119.4923889,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Jeneponto",
+      "city": "Jeneponto",
+      "latitude": -5.632638889,
+      "longitude": 119.84958333,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    },
+    {
+      "name": "Pelabuhan Benteng Jampea",
+      "city": "Kepulauan Selayar",
+      "latitude": -7.060395625,
+      "longitude": 120.620006812,
+      "category": "Pelabuhan Pengumpan Sulsel"
+    }
+  ]
+}
